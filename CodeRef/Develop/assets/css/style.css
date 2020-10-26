@@ -54,7 +54,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* Both floats had the same values so i combined them both on to one string*/
 .float-left,.float-right {
     float: left;
     margin-right: 25px;
